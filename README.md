@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-matos-1a523221b/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmatosrodrigues27@gmail.com)
 
-![Matheus GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusmatosr&theme=react&line_height=40&hide=css")
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmatosr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias:
 <div style="display: inline_block"><br/>
