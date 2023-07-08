@@ -14,6 +14,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-00979D?style=for-the-badge&logo=Java&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />
 </div>
