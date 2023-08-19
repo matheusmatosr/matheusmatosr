@@ -1,6 +1,6 @@
 ### Olá, sou o Matheus Matos ✋
 
-### Sou Desenvolvedor Front-end, cursando Análise e desenvolvimento de sistemas.
+### Sou desenvolvedor front-end, cursando análise e desenvolvimento de sistemas.
 
 ### Contato:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-matos-1a523221b/)
