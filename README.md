@@ -1,6 +1,6 @@
 ### Olá, sou o Matheus Matos ✋
 
-### • 💻Desenvolvedor front-end desde 2022 
+### • 💻Desenvolvedor Full Stack desde 2022 
 ### • 🎓Cursando Análise e Desenvolvimento de Sistemas na UCL
 
 ### Contato:
