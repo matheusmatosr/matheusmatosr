@@ -4,6 +4,7 @@
 ### • 🎓Cursando Análise e Desenvolvimento de Sistemas na UCL
 
 ### Contato:
+[![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://shiny-crepe-ba2bd7.netlify.app/)](website:https://shiny-crepe-ba2bd7.netlify.app/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-matos-1a523221b/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmatosrodrigues27@gmail.com)
 
@@ -38,4 +39,5 @@
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  
+  <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />  
 </div>
