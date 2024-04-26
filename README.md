@@ -1,13 +1,13 @@
 <div>
-    <h3>Olá, meu nome é Matheus Matos!</h3>
-    <h4> • Sou Desenvolvedor Full Stack desde 2022 </h4>
-    <h4> • Cursando Análise e Desenvolvimento de Sistemas na UCL</h4>
+    <h2>Olá, meu nome é Matheus Matos!</h2>
+    <h3> • Sou Desenvolvedor Full Stack desde 2022 </h3>
+    <h3> • Cursando Análise e Desenvolvimento de Sistemas na UCL</h3>
 </div>
 
 [![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://shiny-crepe-ba2bd7.netlify.app/)](https://shiny-crepe-ba2bd7.netlify.app/)
 --- 
 <div style="display: inline_block">
-  <h4>💻 Stacks </>:</h4>
+  <h2>💻 Stacks </>:</h4>
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -22,6 +22,6 @@
 </div>
 
 
-#### 🤝🏻 Contato:
+## 🤝🏻 Contato:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-matos-1a523221b/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmatosrodrigues27@gmail.com)
