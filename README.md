@@ -1,7 +1,7 @@
 <div>
-    <h2>Olá, meu nome é Matheus Matos!</h2>
-    <h3> • Sou Desenvolvedor Full Stack desde 2022 </h3>
-    <h3> • Cursando Análise e Desenvolvimento de Sistemas na UCL</h3>
+    <h3>Olá, meu nome é Matheus Matos!</h3>
+    <h4> • Sou Desenvolvedor Full Stack desde 2022 </h3>
+    <h4> • Cursando Análise e Desenvolvimento de Sistemas na UCL</h3>
 </div>
 
 [![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://shiny-crepe-ba2bd7.netlify.app/)](https://shiny-crepe-ba2bd7.netlify.app/)
