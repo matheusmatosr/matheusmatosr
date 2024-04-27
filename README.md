@@ -4,7 +4,7 @@
     <h3> • Cursando Análise e Desenvolvimento de Sistemas na UCL</h3>
 </div>
 
-[![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://shiny-crepe-ba2bd7.netlify.app/)](https://shiny-crepe-ba2bd7.netlify.app/)
+[![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://portfolio-atual-smoky.vercel.app/)](https://portfolio-atual-smoky.vercel.app/)
 
 <div style="display: inline_block">
   <h2>💻 Stacks </>:</h4>
