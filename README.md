@@ -1,8 +1,6 @@
-<div>
-    <h4>Olá, meu nome é Matheus Matos!</h4>
-    <h4> • Sou Desenvolvedor Front End </h4>
-    <h4> • Cursando Análise e Desenvolvimento de Sistemas na UCL </h4>
-</div>
+👋 Olá, meu nome é Matheus Matos! <br>
+📚 Análise e Desenvolvimento de Sistemas - UCL <br>
+🖥️ Desenvolvedor Front End 
 
 [![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://matheusmatos.vercel.app/)](https://matheusmatos.vercel.app/)
 
