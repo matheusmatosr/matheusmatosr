@@ -1,5 +1,5 @@
 👋 Olá, meu nome é Matheus Matos! <br>
-📚 Graduando em Análise e Desenvolvimento de Sistemas - UCL <br>
+📚 Graduado em Análise e Desenvolvimento de Sistemas - Faculdade UCL <br>
 🖥️ Desenvolvedor Front End 
 
 [![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://matheusmatos.vercel.app/)](https://matheusmatos.vercel.app/)
