@@ -4,7 +4,7 @@
 
 [![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://matheusmatos.vercel.app/)](https://matheusmatos.vercel.app/)
 
-#### 💻 Stacks </>
+#### 💻 Habilidades </>
 <div style="display: inline_block">
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
