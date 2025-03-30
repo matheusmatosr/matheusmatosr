@@ -2,7 +2,7 @@
 📚 Graduado em Análise e Desenvolvimento de Sistemas - Faculdade UCL <br>
 🖥️ Desenvolvedor Full Stack
 
-[![Blog](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://matheusmatos.vercel.app/)](https://matheusmatos.vercel.app/)
+[![Blog](https://img.shields.io/badge/website-ffffff?style=for-the-badge&logo=About.me&logoColor=black)](https://matheusmatos.vercel.app/)
 
 #### 💻 Habilidades </>
 - **Frontend:** React, TypeScript, NextJS, HTML, CSS, JavaScript.
