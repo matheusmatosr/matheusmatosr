@@ -1,6 +1,6 @@
 👋 Olá, sou o Matheus Matos! <br>
 📚 Graduado em Análise e Desenvolvimento de Sistemas - Faculdade UCL <br>
-🖥️ Desenvolvedor Full Stack - 4+ anos de experiência.
+🖥️ Desenvolvedor Full Stack
 
 [![Blog](https://img.shields.io/badge/website-ffffff?style=for-the-badge&logo=About.me&logoColor=black)](https://matheusmatos.vercel.app/)
 
